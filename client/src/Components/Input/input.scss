@@ -1,0 +1,59 @@
+.container{
+    margin: 5px 0 0 5px;
+    height: 80px;
+    position: relative;
+
+    label{
+        position: absolute;
+        left: 5px;
+        top: -5px;
+        color: white;
+        font-weight: bold;
+    }
+
+    input{
+        width: 300px;
+        padding: 5px;
+        border: none;
+        border-radius: 10px;
+        border-bottom: solid 2px white;
+        background-color: transparent;
+        outline: none;
+        color: white;
+        font-weight: bold;
+        box-shadow: 0 0 10px 5px rgba(0,0,0,0.05);
+        transition: all 0.3s linear;
+        z-index: 0;
+
+        &:focus{
+            transform: scale(1.03);
+        }
+    }
+
+    ion-icon{
+        font-size: 23px;
+        color: white;
+        position: absolute;
+        right: 10px;
+        top: 35%;
+        z-index: 1;
+    }
+
+    #container-error{
+        background-color: rgba(155, 155, 155, 0.2);
+        color: rgb(255, 0, 0);
+        font-size: 15px;
+        border-radius: 10px;
+    }
+
+    .eye{
+
+        ion-icon{
+            font-size: 20px;
+            position: absolute;
+            right: 37px;
+            top: 32px;
+            cursor: pointer;
+        }
+    }
+}

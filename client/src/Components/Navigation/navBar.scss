@@ -1,0 +1,84 @@
+.container-nav {
+  width: 100%;
+  height: 80px;
+  margin: 0 0 50px 0;
+
+  h2 {
+    margin: 0;
+    color: white;
+  }
+
+  .navbar-box {
+    width: 40%;
+    height: 80px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px 5px 30px 30px;
+    background-color: rgb(31, 31, 31);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .left {
+      width: 35%;
+      height: 70px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+
+      ion-icon {
+        position: absolute;
+        left:25px;
+        font-size: 30px;
+        color: white;
+      }
+
+      p {
+        position: absolute;
+        left: 50px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+        padding: 17px 0 0 10px;
+      }
+
+      .Nav-Link {
+        text-decoration: none;
+        border-radius: 5px;
+        color: white;
+        padding: 5px;
+        transition: 0.3s ease;
+
+        &:hover {
+          padding: 4.9px;
+          box-shadow: 0 0 5px 1px rgb(129, 129, 129);
+          border-width: 2.5px;
+          border-radius: 5px;
+        }
+      }
+    }
+
+    .right {
+      width: 35%;
+      height: 70px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      .Nav-Link {
+        text-decoration: none;
+        border-radius: 5px;
+        color: white;
+        padding: 5px;
+        transition: 0.3s ease;
+
+        &:hover {
+          padding: 4.9px;
+          box-shadow: 0 0 5px 1px rgb(129, 129, 129);
+          border-width: 2.5px;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}
