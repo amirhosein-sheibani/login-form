@@ -1,2 +1,3 @@
-vless://44b69926-5873-48cb-8a05-743414dd28fd@95.216.2.238:2083?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.zula.ir&fp=firefox&pbk=uGiwm1l5cespYDFFihwXY1BHOgZ67VA1RtWw2AbKOwA&sid=0c7d7417&spx=%2F&type=tcp&headerType=none#Private-MCI-MTN
+vless://33aaa24c-00a6-492c-a816-842eebf2a3d0@95.216.2.238:8443?encryption=none&security=reality&sni=www.speedtest.net&fp=firefox&pbk=N4ZMZyq3TT2uNs4PSYNkAXdGv7NFjKj1FqX3dvv7PTI&sid=e3f08ac2&spx=%2F&type=http&host=telewebion.com&path=%2F#MMad-Private-MCI3
+
 
