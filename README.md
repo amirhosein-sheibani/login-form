@@ -1,3 +1,3 @@
-vless://33aaa24c-00a6-492c-a816-842eebf2a3d0@95.216.2.238:8443?encryption=none&security=reality&sni=www.speedtest.net&fp=firefox&pbk=N4ZMZyq3TT2uNs4PSYNkAXdGv7NFjKj1FqX3dvv7PTI&sid=e3f08ac2&spx=%2F&type=http&host=telewebion.com&path=%2F#MMad-Private-MCI3
+vless://b1441bdf-0f75-4bd3-8fac-be7f21a75909@95.216.2.238:2096?encryption=none&security=reality&sni=www.speedtest.net&fp=firefox&pbk=sUZAO85V_nD0uMXqVBiP_1yqzFnYH-OLrPYQ1OK97Ug&sid=8db002d9&spx=%2F&type=grpc&serviceName=SNAPP&mode=multi#MMad-Private-MCI9
 
 
