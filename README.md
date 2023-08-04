@@ -1,2 +1,3 @@
 
-vless://af7109b9-0a9f-4900-c6b3-70430324a85f@95.216.2.206:2052?path=%2F&security=reality&encryption=none&pbk=U4hxnBbKbCJPqwjI6Mxa3nH_-xtDhmZKDBIoUnM8Z0k&host=telewebion.com&fp=firefox&spx=%2F&type=http&sni=www.speedtest.net&sid=9ff28cad18#MMad-FN206-H2SP
+vless://87781bad-4ec1-4ab5-850b-ddbd1734c705@95.216.2.238:8443?encryption=none&security=reality&sni=www.expat.com&fp=firefox&pbk=z9de_a5v_mSrPbXPnB45IDawkjv7UuOcCrIUZeO7G3E&sid=b6b3ad0f&spx=%2F&type=tcp&headerType=http&host=fast.com#%F0%9F%87%AB%F0%9F%87%AEMMad-FN238-TCPEX-MCI
+
