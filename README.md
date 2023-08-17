@@ -1,1 +1,1 @@
-vless://8b8f0b30-6f4b-4e8e-8a8a-502c112ce83d@172.86.79.153:443?security=reality&encryption=none&pbk=Q-jUWnA2O0Jg7o8QCaHpbv3ph92ULCrDq1DRKh3Wp10&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=accounts.zula.ir&sid=64376cca#%F0%9F%87%B1%F0%9F%87%BA153MMad-MCIzu
+vless://eb4eeab3-2caf-4598-bdc5-9ccddd36c0c7@104.31.16.197:443?path=%2Fmmad&security=tls&encryption=none&host=digikala174.mmad.sbs&fp=chrome&type=ws&sni=digikala174.mmad.sbs#%F0%9F%87%A9%F0%9F%87%AA197MMad-MCIvl
